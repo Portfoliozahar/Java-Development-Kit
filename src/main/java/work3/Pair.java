@@ -1,4 +1,4 @@
-package org.example;
+package work3;
 
 
 //TASK 3
